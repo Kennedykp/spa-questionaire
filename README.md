@@ -15,13 +15,6 @@ JavaScript
 🤝 Contributing
 Contributions to the SPA Questionnaire Web App are welcome and appreciated! To contribute, please follow these steps:
 
-Fork the repository
-Create a new branch: git checkout -b my-new-feature
-Make changes and commit them: git commit -m "Add some feature"
-Push to the branch: git push origin my-new-feature
-Submit a pull request
-📝 License
-The SPA Questionnaire Web App is licensed under the MIT License.
 
 👤 Author
 The SPA Questionnaire Web App was developed by Kennedy McCall⚡.
