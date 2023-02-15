@@ -6,14 +6,7 @@ Customizable questions for different sections (e.g., personal information, healt
 Different question sets for single and married customers
 Option to save and continue filling out the questionnaire at a later time
 Mobile-friendly design for ease of use on all devices
-🚀 Getting Started
-To run the SPA Questionnaire Web App on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/your-repo.git
-Set up your MySQL database by importing the database.sql file included in the project
-Update the database credentials in config.php
-Start the PHP development server: php -S localhost:8000
-Open your browser and go to http://localhost:8000
 💻 Technologies Used
 PHP
 CSS
